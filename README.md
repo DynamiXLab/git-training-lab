@@ -6,22 +6,23 @@
 
 ## 任务列表
 
-| 任务 | 名称 | 核心内容 |
-|------|------|----------|
-| 任务一 | 环境准备 | Git 安装、用户配置、VS Code 编辑器 |
-| 任务二 | 本地仓库基础 | init、add、commit、status |
-| 任务三 | 远程仓库协作 | fork、clone、push、pull、PR |
-| 任务四 | 分支与合并 | branch、merge、冲突解决 |
-| 任务五 | 查看历史与对比 | log、diff、stash、.gitignore |
-| 任务六 | 撤销与版本管理 | reset、revert、fetch、tag |
-| 任务七 | 期末测试 | 综合测验、提交训练答卷 |
+| 序号 | 任务 | 核心内容 | 建议天数 |
+|:---:|------|----------|:------:|
+| 一 | [环境准备](task/task01-setup.md) | Git 安装、用户配置、VS Code 编辑器 | 第 1 天 |
+| 二 | [本地仓库基础](task/task02-commit.md) | init、add、commit、status | 第 2 天 |
+| 三 | [远程仓库协作](task/task03-clone.md) | fork、clone、push、pull、PR | 第 3 天 |
+| 四 | [分支与合并](task/task04-version_control.md) | branch、merge、冲突解决 | 第 4 天 |
+| 五 | [查看历史与对比](task/task05-inspect.md) | log、diff、stash、.gitignore | 第 5 天 |
+| 六 | [撤销与版本管理](task/task06-undo.md) | reset、revert、fetch、tag | 第 6 天 |
+| 七 | [期末测试](task/task07-final-exam.md) | 综合测验、提交训练答卷 | 第 7 天 |
 
 ## 如何使用
 
-1. 按编号顺序完成 `task/` 目录下的每个任务
-2. 每个任务包含知识点讲解和动手练习
-3. 每位学员创建 `submit/<年份>-<姓名拼音>` 分支提交训练成果
-4. 遇到问题先自己搜索，实在不会再请教
+1. 每天 1 个任务，**7 天完成全部训练**
+2. 点击上方表格的任务名称即可跳转到对应内容
+3. 每个任务包含知识点讲解和动手练习
+4. 每位学员创建 `submit/<年份>-<姓名拼音>` 分支提交训练成果
+5. 遇到问题先自己搜索，实在不会再请教
 
 ## 修订日志
 
